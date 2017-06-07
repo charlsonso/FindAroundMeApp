@@ -4,4 +4,5 @@ Inspired By [Navneet](https://www.androidtutorialpoint.com/intermediate/google-m
 
 Yelp style app using the Google API and GPS to find nearby hospitals, restaurants, and schools.
 
+![alt text](https://github.com/so0p/PicturesForProjects/blob/master/FindAroundMeApp.png)
 
